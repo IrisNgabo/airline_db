@@ -6,8 +6,8 @@ Run the files in order on a fresh database:
 
 ```bash
 mysql -u root -p < 01_schema.sql
-mysql -u root -p airline_db < 02_seed.sql
-mysql -u root -p airline_db < 03_queries.sql
+mysql -u root -p < 02_seed.sql
+mysql -u root -p < 03_queries.sql
 ```
 
 | File | What | Owner |
