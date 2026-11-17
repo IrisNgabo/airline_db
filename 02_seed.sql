@@ -1,0 +1,2 @@
+-- 02_seed.sql: Iris Ngabo (Data lead)
+-- 4-5 passengers covering Economy, Business and First, plus their bookings

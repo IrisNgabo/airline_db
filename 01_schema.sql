@@ -1,0 +1,2 @@
+-- 01_schema.sql: Pacifique Mico (Driver)
+-- CREATE DATABASE airline_db, passengers and bookings tables
